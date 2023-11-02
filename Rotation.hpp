@@ -1,0 +1,10 @@
+#ifndef ROTATION_HPP
+#define ROTATION_HPP
+enum Rotation
+{
+	NORMAL = 0,
+	ROTATE90TOTHELEFT = 1,
+	FLIPPED = 2,
+	ROTATE90TOTHERIGHT = 3
+};
+#endif

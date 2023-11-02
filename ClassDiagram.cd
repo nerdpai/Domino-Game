@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameController" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhACABIFGgBABAgQAAQIAEABAEIAwAICPABBAGQEI=</HashCode>
+      <FileName>GameController.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAACQAAAAAQAAAAiAAAAAIAgAAACAAAIAAAE=</HashCode>
+      <FileName>GameObject.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hand" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEACBGCICJEA0AC0AAAgAIIAgAAAAQAMyIBQo=</HashCode>
+      <FileName>Hand.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyBoardListener" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAAAiACDAIAIAAAACABAAAAAAQACAAAIAAAAA=</HashCode>
+      <FileName>KeyBoardListener.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KnuckleOfDomino" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIZAAAQARQpABAQIAAAABIAAQAbAAAAgAICAAKAAA=</HashCode>
+      <FileName>KnuckleOfDomino.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logo" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Logo.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniKnuckle" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAACAAAAIAgAAAAAIAgBAAAAQACCAQA=</HashCode>
+      <FileName>MiniKnuckle.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PullOfDominoKnuckles" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAECARAAAAAAAIAAAAAAIgAAAAAAAAAAAAI=</HashCode>
+      <FileName>PullOfDominoKnuckles.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAQAQAAAAAAAAAAAAAAAAAIAAQAAAAAAAGIAI=</HashCode>
+      <FileName>Sprite.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Table" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAAJAQCQAAAAABAAAAAQAAAACQAIAAAoAAgQACEAAA=</HashCode>
+      <FileName>Table.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextField" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAAAAAABAgAwAAoAIIAAAAAAAACYAAIAAAoABAEQAA=</HashCode>
+      <FileName>TextField.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Rotation" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAACEAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rotation.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Move" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Table.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
